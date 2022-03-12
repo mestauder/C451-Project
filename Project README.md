@@ -7,7 +7,7 @@ RentaCar System Application:
 
 Java Fx GUI:
 
-  User Interface: users will be required to log in to access the application
+    User Interface: users will be required to log in to access the application
 
     Customer Page - a user, verified as a customer in the RentaCar database, will be able to see a list of tabs
         Tabs include : Vehicle Search, Branch Search, Reserve, Update Reservation, and Rental History
