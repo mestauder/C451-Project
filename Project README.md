@@ -43,33 +43,33 @@ Microsoft Access:
           
           User: stores attributes such as User ID, EmployeeID, CustomerID, First Name, Last Name, Username, and Password.
           
-          **A user may be a customer or an employee, but a customer/employee must be a user.**
+              **A user may be a customer or an employee, but a customer/employee must be a user.**
           
           Customer: stores attributes such as User ID, Customer ID, Address ID, and Favorite Vin Number.
           
-          **A customer must be a user of the program, but a user does not have to be a customer.**
+              **A customer must be a user of the program, but a user does not have to be a customer.**
           
           Employee: stores attributes such as User ID, Employee ID, Branch ID, and Position.
           
-          **An employee must be a user of the program, but a user does not have to be an employee.**
+              **An employee must be a user of the program, but a user does not have to be an employee.**
           
           Address: stores attributes such as Address ID, Street, City, State, ZipCode, and Country.
           
-          **An address is associated to one customer, and a customer has one address.**
+              **An address is associated to one customer, and a customer has one address.**
           
           Branch: stores attributes such as Branch ID, Address ID, Branch Name, and Phone Number.
           
-          **A branch has only one address, and an address can only be associated to one branch location.**
+              **A branch has only one address, and an address can only be associated to one branch location.**
           
           Car: stores attributes such as VIN Number, Color, Make, Model, Year, and Number of Seats.
-          **A car may be favorited by a customer, but a customer does not have to favorite a car.**
+              **A car may be favorited by a customer, but a customer does not have to favorite a car.**
           
           Reservation: stores attributes such as Reservation ID, Customer ID, VIN Number, Branch ID, Reservation Date, Pickup Date, Pickup Time, 
           Dropoff Date, and Dropoff Time.
           
-          **A customer can have many reservations, but a reservation must be associated to only one customer.**
-          **A branch may be associated to many reservations, but a reservation must be associated to only one branch.**
-          **A car may be associated to many reservations, but a reservation must be associated to only one car.**
+              **A customer can have many reservations, but a reservation must be associated to only one customer.**
+              **A branch may be associated to many reservations, but a reservation must be associated to only one branch.**
+              **A car may be associated to many reservations, but a reservation must be associated to only one car.**
           
     Tables will be implemented into the JavaFX GUI in the next phase of the project. 
           
