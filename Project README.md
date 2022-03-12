@@ -38,7 +38,8 @@ Java Fx GUI:
 
 
 Microsoft Access:
-Tables: User, Customer, Employee, Address, Branch, Car, Reservation
+
+      Tables: User, Customer, Employee, Address, Branch, Car, Reservation
           
           User: stores attributes such as User ID, EmployeeID, CustomerID, First Name, Last Name, Username, and Password.
           
