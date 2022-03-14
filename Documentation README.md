@@ -1,8 +1,8 @@
 # C451-Project
 
-Documentation:
+RentaCar Project Documentation:
 
-System Requirements (Assignment 2) - See the Project Report - Phase 3.pdf file.
+System Requirements (Assignment 2) - See the Phase 3 - Report.pdf file.
 
 System Design (Assignment 3) - (N/A for the moment)
 
