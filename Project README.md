@@ -1,6 +1,14 @@
 # C451-Project
 
-Code - See the mydb.
+Code - See the mydb.accdb file to access/view the code for the RentaCar database
+
+Unit Testing: No units to test at this time.
+
+Integration Testing: Database has not been integrated into Java yet.
+
+Data Collection: Nothing to be collected at this time.
+
+*****
 
 RentaCar System Application:
 
