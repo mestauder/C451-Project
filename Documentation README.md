@@ -2,9 +2,9 @@
 
 RentaCar Project Documentation:
 
-System Requirements (Assignment 2) - See the Phase 3 - Report.pdf file.
+System Requirements (Assignment 2) - See the Final RentaCare Report.
 
-System Design (Assignment 3) - (N/A for the moment)
+System Design - See the Final RentaCare Report.
 
 Brochure/flyer - See the RentaCar Brochure.pdf file.
 
